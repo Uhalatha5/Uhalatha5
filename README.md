@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm P. Uhalatha
 ## About Me
-- 🎓 B.Tech 2nd-year student
+- 🎓 B.Tech 3rd-year student
 - 📚 Majoring in Computer Science(data science)
 - 📊 Current CGPA: 9.4
 - 💡 Passionate about coding and problem-solving
@@ -8,8 +8,11 @@
 - C Programming
 - Data Structures
 - python programming
+- java
+- html
+- css
 ## Currently Learning
-- 🌱 java Programming
+- 🌱 java script 
 ## Contact Me
 - 📧 Email: uhalatha.puligundla@gmail.com
 - LinkedIn:https://www.linkedin.com/in/uhalatha-p-682b89255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
