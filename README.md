@@ -15,5 +15,5 @@
 - 🌱 java script 
 ## Contact Me
 - 📧 Email: uhalatha.puligundla@gmail.com
-- LinkedIn: linkedin.com/in/uhalatha-p-682b89255
+- LinkedIn: in/uhalatha-p-682b89255
 Feel free to connect with me and explore my projects 
