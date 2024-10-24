@@ -9,10 +9,8 @@
 - Data Structures
 - python programming
 - java
-- html
-- css
 ## Currently Learning
-- 🌱 java script 
+- 🌱 html,css
 ## Contact Me
 - 📧 Email: uhalatha.puligundla@gmail.com
 - LinkedIn: in/uhalatha-p-682b89255
